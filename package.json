@@ -17,9 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$RICKNMORTYgithub.com/Gonzalobarrioss/rick-morty"
+    "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Gonzalobarrioss.github.io/rick-morty",
+  "homepage": "https://gonzalobarrioss.github.io/rick-morty/",
   "eslintConfig": {
     "extends": [
       "react-app",
